@@ -90,11 +90,6 @@
 - Scalable Backend Architectures
 
 ---
-
-## 🌐 Connect With Me
-- 💼 LinkedIn: [Add Link]
-- 🌍 Portfolio: [Add Link]
-
 ---
 
 <p align="center">
