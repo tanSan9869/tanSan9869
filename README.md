@@ -10,7 +10,6 @@
 - 🎓 3rd Year Engineering Student  
 - 🚀 Passionate about **AI + Full Stack Development**  
 - 🧩 Building real-world systems (Healthcare, Finance, Accessibility)  
-- ⚡ Love hackathons, rapid prototyping & solving real problems  
 - 🌱 Currently exploring: **LLMs, RAG, System Design**
 
 ---
@@ -41,6 +40,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge)
 
 ### 🎨 Frontend
@@ -55,7 +55,7 @@
 ![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
@@ -94,10 +94,6 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tanSan9869&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-![snake gif](https://github.com/tanSan9869/tanSan9869/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
