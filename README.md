@@ -62,25 +62,44 @@
 
 ---
 
-## 🚀 Featured Projects
-- 🔥 **SMARTCARE** – AI-powered healthcare record system  
-- 💰 **Finance Tracker** – Smart expense tracking + analytics  
-- 🌐 **Accessibility Audit Platform** – WCAG-based website analyzer  
-- ⚡ More projects coming soon...
+## ⚡ Developer Analytics Dashboard
 
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanSan9869&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanSan9869&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Contribution Insights
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=tanSan9869&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 📊 Coding Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanSan9869&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanSan9869&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanSan9869&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+![snake gif](https://github.com/tanSan9869/tanSan9869/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
