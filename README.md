@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Tanishk Sancheti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+LLM+Builder;Hackathon+Enthusiast+🚀;Building+Real+World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Real+World+Solutions" />
 </p>
 
 ---
@@ -15,7 +15,6 @@
 ---
 
 ## 🔥 What I Do
-- 🤖 Build AI-powered apps using **OpenAI / Gemini / LangChain**
 - 🌐 Develop scalable web apps using **Next.js + Node.js**
 - 🔐 Work on secure systems (Auth, Data Protection, APIs)
 - ⚙️ Design backend architectures & real-time systems
