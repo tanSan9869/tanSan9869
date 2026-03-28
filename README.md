@@ -63,6 +63,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![ESLint](https://img.shields.io/badge/ESLint-purple?style=for-the-badge&logo=eslint)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## ⚡ Developer Analytics Dashboard
 
