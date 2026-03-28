@@ -82,21 +82,7 @@
 
 ---
 
-## 📊 Coding Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanSan9869&theme=tokyonight&utcOffset=5.5" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanSan9869&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tanSan9869&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![snake gif](https://raw.githubusercontent.com/tanSan9869/tanSan9869/output/github-contribution-grid-snake.svg)
 
 ---
 
