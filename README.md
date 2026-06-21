@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 3rd Year Engineering Student  
+- 🎓 4th Year Engineering Student  
 - 🚀 Passionate about **AI + Full Stack Development**  
 - 🧩 Building real-world systems (Healthcare, Finance, Accessibility)  
 - 🌱 Currently exploring: **LLMs, RAG, System Design**
